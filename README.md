@@ -12,11 +12,11 @@ Welcome to my GitHub portfolio! I'm passionate about **cryptography, blockchain 
 ## 📌 Featured Projects
 🔹 [**Monswap**](https://github.com/ATK-zk/monswap) - A decentralized exchange (DEX) backend built on Monad Testnet.
 
-🔹 [**Monswap(frontend)**](https://github.com/ATK-zk/monswap_frontend) - The frontend for Monswap.
+🔹 [**Monswap(Frontend)**](https://github.com/ATK-zk/monswap_frontend) - The frontend for Monswap.
 
 🔹 [**EMCPapp**](https://github.com/ATK-zk/web_development) - EMCPapp is a web application built using HTML, CSS, and JavaScript.
 
-🔹 [**Auto contract**](#) - *(Coming Soon!)*
+🔹 [**MONAD pump contract bot**](#) - *(Coming Soon!)*
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](#) *(Coming Soon!)*
