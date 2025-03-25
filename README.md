@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm ATK! 👋
 
-<!--
-**ATK-zk/ATK-zk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I'm passionate about **cryptography, blockchain development, and decentralized applications (dApps).** 🚀
 
-Here are some ideas to get you started:
+## 🔧 Tech & Skills
+- **Blockchain & Crypto:** Smart Contracts (Solidity), Web3.js, DeFi
+- **Programming:** Python, JavaScript
+- **Web Development:** React, Node.js
+- **Version Control:** Git, GitHub
+- **Other Skills:** WEB Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+🔹 [**Monswap**](https://github.com/ATK-zk/monswap) - A decentralized exchange (DEX) backend built on Monad Testnet.
+
+🔹 [**Monswap(frontend)**](https://github.com/ATK-zk/monswap_frontend) - The frontend for Monswap.
+
+🔹 [**EMCPapp**](https://github.com/ATK-zk/web_development) - EMCPapp is a web application built using HTML, CSS, and JavaScript.
+
+🔹 [**Auto contract**](#) - *(Coming Soon!)*
+
+## 📫 Connect with Me
+- 🌐 [Portfolio Website](#) *(Coming Soon!)*
+- 🔗 [LinkedIn](#) *(Coming Soon!)*
+- ✉️ Email: malaihirun934@gmail.com
+
+---
+🚀 _Building the future of decentralized technology!_
+
