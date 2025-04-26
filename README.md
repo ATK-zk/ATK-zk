@@ -16,8 +16,6 @@ Welcome to my GitHub portfolio! I'm passionate about **cryptography, blockchain 
 
 🔹 [**EMCPapp**](https://github.com/ATK-zk/web_development) - EMCPapp is a web application built using HTML, CSS, and JavaScript.
 
-🔹 [**MONAD pump contract bot**](#) - *(Coming Soon!)*
-
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](#) *(Coming Soon!)*
 - 🔗 [LinkedIn](#) *(Coming Soon!)*
